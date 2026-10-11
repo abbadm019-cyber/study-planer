@@ -1,0 +1,14 @@
+[
+    {
+        "matiere": "algebre",
+        "description": "exerciec de revision",
+        "duree": "90",
+        "terminee": true
+    },
+    {
+        "matiere": "algebre",
+        "description": "cour",
+        "duree": "60",
+        "terminee": false
+    }
+]
